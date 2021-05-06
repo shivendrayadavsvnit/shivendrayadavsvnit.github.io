@@ -1,9 +1,9 @@
-# ambujbpl.github.io
-Ambuj Bootstrap Resume/CV for Portfolieo
+# shivendrayadavsvnit.github.io
+
 
 Theme name:
 =======================================================================
-ambujCV
+Dr. Shivendra Yadav CV
 
 Theme version:
 =======================================================================
@@ -11,23 +11,19 @@ v3.0
 
 Release Date:
 =======================================================================
-14 Apr 2018
+04 May 2021
 
 Author: 
 =======================================================================
-Ambuj Dubey(https://ambujbpl.github.io/)
+Ambuj Dubey(https://shivendrayadavsvnit.github.io/)
 
 Contact:
 =======================================================================
 
-Web: https://ambujbpl.github.io
+Web: https://shivendrayadavsvnit.github.io/
 
-Other Website : http://ambujdubey.herokuapp.com
 
-Email: ambujdubey@outlook.in
+Email: shivendra.y@eced.svnit.ac.in
 
-Twitter: https://twitter.com/@mbujdubey
 
-Facebook: https://www.facebook.com/ambujdubeybpl
-
-Linkedin: https://in.linkedin.com/in/ambuj-dubey-2923b456
+Linkedin: https://www.linkedin.com/in/shivendra-yadav-b50a93113/
