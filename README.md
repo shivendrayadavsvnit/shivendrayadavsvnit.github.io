@@ -15,7 +15,7 @@ Release Date:
 
 Author: 
 =======================================================================
-Ambuj Dubey(https://shivendrayadavsvnit.github.io/)
+Dr. Shivendra Yadav(https://shivendrayadavsvnit.github.io/)
 
 Contact:
 =======================================================================
